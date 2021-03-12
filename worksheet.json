@@ -1,0 +1,1079 @@
+[
+    {
+        "_id": {
+            "$oid": "5f353134fa29240024df1194"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-01T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "15:40",
+        "breakEnd": "16:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f3e293fe361f10024918938"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-02T00:00:00Z"
+        },
+        "workStart": "14:00",
+        "breakStart": "16:30",
+        "breakEnd": "16:50",
+        "workEnd": "22:00",
+        "shiftMinutes": 460,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f3e2955e361f10024918939"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-03T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "17:00",
+        "breakEnd": "17:20",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f3e2963e361f1002491893a"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-04T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "16:20",
+        "breakEnd": "16:40",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f3e2971e361f1002491893b"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-05T00:00:00Z"
+        },
+        "workStart": "18:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 240,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f3e2984e361f1002491893c"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-06T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "16:20",
+        "breakEnd": "16:40",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f3e2992e361f1002491893d"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-08T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "15:40",
+        "breakEnd": "16:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f3e29a0e361f1002491893e"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-10T00:00:00Z"
+        },
+        "workStart": "18:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 240,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f3e29b9e361f1002491893f"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-11T00:00:00Z"
+        },
+        "workStart": "16:00",
+        "breakStart": "18:00",
+        "breakEnd": "18:20",
+        "workEnd": "22:00",
+        "shiftMinutes": 340,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f3e29cde361f10024918940"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-12T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "16:00",
+        "breakEnd": "16:20",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f3e29d6e361f10024918941"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-14T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "16:00",
+        "breakEnd": "16:20",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f3e29efe361f10024918942"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-16T00:00:00Z"
+        },
+        "workStart": "16:00",
+        "breakStart": "18:00",
+        "breakEnd": "18:20",
+        "workEnd": "22:00",
+        "shiftMinutes": 340,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f3e2a03e361f10024918943"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-17T00:00:00Z"
+        },
+        "workStart": "14:10",
+        "breakStart": "15:40",
+        "breakEnd": "16:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 450,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f3eeaafa3018b00247fade0"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-18T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "17:15",
+        "breakEnd": "17:35",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f3eeac4a3018b00247fade1"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-19T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "15:40",
+        "breakEnd": "16:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f3eead1a3018b00247fade2"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-20T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "16:20",
+        "breakEnd": "16:40",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f419cc44f28f400247596f7"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-22T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "15:10",
+        "breakEnd": "15:30",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f46290123f0a70024a8f7a4"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-24T00:00:00Z"
+        },
+        "workStart": "07:30",
+        "breakStart": "09:50",
+        "breakEnd": "10:10",
+        "workEnd": "16:00",
+        "shiftMinutes": 490,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f46291e23f0a70024a8f7a5"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-25T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "15:10",
+        "breakEnd": "15:30",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f46c6fe7617200024d571a8"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-26T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "15:30",
+        "breakEnd": "15:50",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f4e28ab3a7c720024ce1f09"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-27T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "15:40",
+        "breakEnd": "16:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f4e28cd3a7c720024ce1f0a"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-29T00:00:00Z"
+        },
+        "workStart": "10:40",
+        "breakStart": "14:00",
+        "breakEnd": "14:20",
+        "workEnd": "19:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f4e28ec3a7c720024ce1f0b"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-08-31T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "17:15",
+        "breakEnd": "17:35",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f51f5579ed9f1002473540e"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-09-01T00:00:00Z"
+        },
+        "workStart": "15:40",
+        "breakStart": "17:00",
+        "breakEnd": "17:20",
+        "workEnd": "22:00",
+        "shiftMinutes": 360,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f51f5ab9ed9f1002473540f"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-09-03T00:00:00Z"
+        },
+        "workStart": "15:40",
+        "breakStart": "17:00",
+        "breakEnd": "17:20",
+        "workEnd": "22:00",
+        "shiftMinutes": 360,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f53f463edb64700240d2866"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-09-01T00:00:00Z"
+        },
+        "workStart": "14:55",
+        "breakStart": "16:00",
+        "breakEnd": "16:45",
+        "workEnd": "22:00",
+        "shiftMinutes": 380,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f5400c74060dc0024fd1f3a"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-09-05T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "16:20",
+        "breakEnd": "16:40",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f64bce5678b820024c45931"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-09-05T00:00:00Z"
+        },
+        "workStart": "14:30",
+        "breakStart": "18:00",
+        "breakEnd": "18:30",
+        "workEnd": "22:00",
+        "shiftMinutes": 420,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f64bd24678b820024c45932"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-09-06T00:00:00Z"
+        },
+        "workStart": "13:15",
+        "breakStart": "15:10",
+        "breakEnd": "15:55",
+        "workEnd": "22:00",
+        "shiftMinutes": 480,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f64bd4e678b820024c45933"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-09-07T00:00:00Z"
+        },
+        "workStart": "15:30",
+        "breakStart": "17:00",
+        "breakEnd": "17:30",
+        "workEnd": "22:00",
+        "shiftMinutes": 360,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f64bd8d678b820024c45934"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-09-10T00:00:00Z"
+        },
+        "workStart": "15:30",
+        "breakStart": "16:50",
+        "breakEnd": "17:10",
+        "workEnd": "22:00",
+        "shiftMinutes": 370,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f64bdae678b820024c45935"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-09-11T00:00:00Z"
+        },
+        "workStart": "15:30",
+        "breakStart": "17:30",
+        "breakEnd": "18:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 360,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f64bdea678b820024c45936"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-09-12T00:00:00Z"
+        },
+        "workStart": "13:15",
+        "breakStart": "16:40",
+        "breakEnd": "17:10",
+        "workEnd": "22:00",
+        "shiftMinutes": 495,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f64be1c678b820024c45937"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-09-14T00:00:00Z"
+        },
+        "workStart": "15:30",
+        "breakStart": "17:30",
+        "breakEnd": "18:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 360,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f64be3e678b820024c45938"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-09-16T00:00:00Z"
+        },
+        "workStart": "15:30",
+        "breakStart": "18:00",
+        "breakEnd": "18:30",
+        "workEnd": "22:00",
+        "shiftMinutes": 360,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f7ea3af269e8400246bbda7"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-10-07T00:00:00Z"
+        },
+        "workStart": "18:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 240,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f87e176c4d7870024498ca7"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-10-01T00:00:00Z"
+        },
+        "workStart": "16:00",
+        "breakStart": "16:40",
+        "breakEnd": "17:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 340,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f87e1d8c4d7870024498ca8"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-10-03T00:00:00Z"
+        },
+        "workStart": "14:00",
+        "breakStart": "15:40",
+        "breakEnd": "16:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 460,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f87e245c4d7870024498ca9"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-10-04T00:00:00Z"
+        },
+        "workStart": "11:00",
+        "breakStart": "12:40",
+        "breakEnd": "13:00",
+        "workEnd": "19:00",
+        "shiftMinutes": 460,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f87e28bc4d7870024498caa"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-10-05T00:00:00Z"
+        },
+        "workStart": "16:00",
+        "breakStart": "17:40",
+        "breakEnd": "18:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 340,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f87e2bbc4d7870024498cab"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-10-08T00:00:00Z"
+        },
+        "workStart": "12:00",
+        "breakStart": "13:50",
+        "breakEnd": "14:10",
+        "workEnd": "18:00",
+        "shiftMinutes": 340,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f87e2f7c4d7870024498cac"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-10-09T00:00:00Z"
+        },
+        "workStart": "14:00",
+        "breakStart": "15:50",
+        "breakEnd": "16:10",
+        "workEnd": "22:00",
+        "shiftMinutes": 460,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f87e32fc4d7870024498cad"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-10-10T00:00:00Z"
+        },
+        "workStart": "16:00",
+        "breakStart": "17:50",
+        "breakEnd": "18:10",
+        "workEnd": "22:00",
+        "shiftMinutes": 340,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f87e364c4d7870024498cae"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-10-11T00:00:00Z"
+        },
+        "workStart": "15:00",
+        "breakStart": "16:50",
+        "breakEnd": "17:10",
+        "workEnd": "22:00",
+        "shiftMinutes": 400,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f87e395c4d7870024498caf"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-10-13T00:00:00Z"
+        },
+        "workStart": "14:00",
+        "breakStart": "15:50",
+        "breakEnd": "16:10",
+        "workEnd": "22:00",
+        "shiftMinutes": 460,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f87e3d0c4d7870024498cb0"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-10-15T00:00:00Z"
+        },
+        "workStart": "12:00",
+        "breakStart": "14:00",
+        "breakEnd": "14:45",
+        "workEnd": "22:00",
+        "shiftMinutes": 555,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f87e402c4d7870024498cb1"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-10-16T00:00:00Z"
+        },
+        "workStart": "12:00",
+        "breakStart": "14:00",
+        "breakEnd": "14:45",
+        "workEnd": "22:00",
+        "shiftMinutes": 555,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5f87e433c4d7870024498cb2"
+        },
+        "ID": {
+            "$oid": "5f53f0c7edb64700240d2864"
+        },
+        "date": {
+            "$date": "2020-10-17T00:00:00Z"
+        },
+        "workStart": "11:00",
+        "workEnd": "21:00",
+        "shiftMinutes": 600,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fb0fce8f28ae20024b91c7f"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-11-14T00:00:00Z"
+        },
+        "workStart": "18:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 240,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fb0fd02f28ae20024b91c80"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-11-13T00:00:00Z"
+        },
+        "workStart": "18:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 240,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fb0fd7df28ae20024b91c81"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-11-09T00:00:00Z"
+        },
+        "workStart": "18:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 240,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fb195ffd3771a00248d7a9a"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-11-15T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "16:00",
+        "breakEnd": "16:20",
+        "workEnd": "20:00",
+        "shiftMinutes": 360,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fb3b5a02b0e5f0024173849"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-11-16T00:00:00Z"
+        },
+        "workStart": "15:40",
+        "breakStart": "18:13",
+        "breakEnd": "18:33",
+        "workEnd": "22:00",
+        "shiftMinutes": 360,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fb3f8fecbe48f00240227aa"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-11-17T00:00:00Z"
+        },
+        "workStart": "15:40",
+        "breakStart": "17:14",
+        "breakEnd": "17:34",
+        "workEnd": "22:00",
+        "shiftMinutes": 360,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fc4af6ccebb6700247bfe63"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-11-19T00:00:00Z"
+        },
+        "workStart": "15:40",
+        "breakStart": "19:00",
+        "breakEnd": "19:20",
+        "workEnd": "22:00",
+        "shiftMinutes": 360,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fc4af8fcebb6700247bfe64"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-11-25T00:00:00Z"
+        },
+        "workStart": "14:40",
+        "workEnd": "20:00",
+        "shiftMinutes": 320,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fc4afa5cebb6700247bfe65"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-11-26T00:00:00Z"
+        },
+        "workStart": "16:00",
+        "workEnd": "20:00",
+        "shiftMinutes": 240,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fc4afb2cebb6700247bfe66"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-11-29T00:00:00Z"
+        },
+        "workStart": "18:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 240,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fe8eb7461598d0024bbd9b2"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-12-01T00:00:00Z"
+        },
+        "workStart": "15:40",
+        "workEnd": "20:00",
+        "shiftMinutes": 260,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fe8eb9c61598d0024bbd9b3"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-12-13T00:00:00Z"
+        },
+        "workStart": "13:40",
+        "breakStart": "15:10",
+        "breakEnd": "15:30",
+        "workEnd": "20:00",
+        "shiftMinutes": 360,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fe8ebb861598d0024bbd9b4"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-12-19T00:00:00Z"
+        },
+        "workStart": "18:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 240,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fe8ebf561598d0024bbd9b5"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-12-20T00:00:00Z"
+        },
+        "workStart": "11:30",
+        "breakStart": "15:00",
+        "breakEnd": "15:20",
+        "workEnd": "22:00",
+        "shiftMinutes": 610,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fe8ec0b61598d0024bbd9b6"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-12-26T00:00:00Z"
+        },
+        "workStart": "17:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 300,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5fe8ec6461598d0024bbd9b7"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2020-12-27T00:00:00Z"
+        },
+        "workStart": "15:40",
+        "breakStart": "17:00",
+        "breakEnd": "17:20",
+        "workEnd": "22:00",
+        "shiftMinutes": 360,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6020dc0b293be3002439a872"
+        },
+        "ID": {
+            "$oid": "5f35236b05a546002416435b"
+        },
+        "date": {
+            "$date": "2021-01-11T00:00:00Z"
+        },
+        "workStart": "18:00",
+        "workEnd": "22:00",
+        "shiftMinutes": 240,
+        "__v": 0
+    }
+]
